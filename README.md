@@ -1,79 +1,179 @@
 <div align="center">
 
-<!-- Cyber Space Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,35:004f21,70:25d366,100:00e5ff&height=240&section=header&text=Sibi%20Abi%20%E2%9A%A1&fontSize=52&fontAlignY=36&desc=Aerospace%20%26%20Avionics%20Engineer%20%7C%20Systems%20%26%20OS%20Architect%20%7C%20Cloud%20Automation%20Specialist&descAlignY=58&fontColor=ffffff&descColor=79f9d0" width="100%" />
+<!-- Futuristic Cyber-Aerospace Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:022c22,60:065f46,85:10b981,100:00e5ff&height=260&section=header&text=SIBI%20ABI&fontSize=62&fontAlignY=34&desc=%E2%9A%A1%20AEROSPACE%20AVIONICS%20%E2%80%A2%20x86%20KERNEL%20ARCHITECT%20%E2%80%A2%20CLOUD%20AUTOMATION%20%E2%9A%A1&descAlignY=58&fontColor=ffffff&descColor=79f9d0" width="100%" />
 
-<!-- Animated Dynamic Typing Banner -->
+<!-- Animated Dynamic Typing Terminal -->
 <a href="https://github.com/sibiabi123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🚀+Aerospace+Guidance+%26+Avionics+Systems;⚡+Author+of+NxtGen_OS+(Custom+x86+Kernel);☁️+Architect+of+WatoBot+24%2F7+Cloud+Platform;🧠+Physics-Informed+Neural+Networks+%26+Turbofan+RUL;🛰️+Orbital+Mechanics+%26+Real-time+ADS-B+Radar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%E2%9E%A4+ORBITAL+TRAJECTORIES+%26+REAL-TIME+ADS-B+RADAR+TELEMETRY;%E2%9E%A4+AUTHOR+OF+NxtGen_OS+(32-BIT+x86+MONOLITHIC+KERNEL);%E2%9E%A4+ARCHITECT+OF+WatoBot+24%2F7+DISTRIBUTED+CLOUD+ENGINE;%E2%9E%A4+PHYSICS-INFORMED+NEURAL+NETWORKS+%26+TURBOFAN+RUL;%E2%9E%A4+AUTONOMOUS+UAV+SWARM+GCS+%26+GPS-DENIED+VIO+NAV" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Real-time Status Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=sibiabi123&style=for-the-badge&color=004f21&label=SYSTEM+TRAFFIC)](https://github.com/sibiabi123)
-[![GitHub Followers](https://img.shields.io/github/followers/sibiabi123?style=for-the-badge&color=25D366&logo=github&logoColor=white&label=COLLABORATORS)](https://github.com/sibiabi123?tab=followers)
-[![WatoBot Status](https://img.shields.io/badge/WatoBot-LIVE%2024%2F7%20%F0%9F%9F%A2-00e5ff?style=for-the-badge&logo=whatsapp&logoColor=black)](https://mudbot-erai.onrender.com)
-[![Kernel Status](https://img.shields.io/badge/NxtGen_OS-x86%20Kernel%20Active-ff007f?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/sibiabi123/NxtGen_OS)
-[![Aerospace Series](https://img.shields.io/badge/Aerospace-10%2B%20Open%20Source%20Repos-blue?style=for-the-badge&logo=spacex&logoColor=white)](https://github.com/sibiabi123?tab=repositories)
+<!-- Real-time HUD Status Indicators -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FLIGHT_STATUS-AIRBORNE%2024%2F7-00e5ff?style=for-the-badge&logo=spacex&logoColor=black" />
+  <img src="https://img.shields.io/badge/KERNEL-x86_PROTECTED_MODE-ff007f?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-ZERO_KNOWLEDGE_AES_256-10b981?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/RADAR_RANGE-250_NM_ACTIVE-7c3aed?style=for-the-badge&logo=radar&logoColor=white" />
+</p>
+
+<!-- Live Profile Counter Pill -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sibiabi123&style=flat-square&color=00e5ff&label=%F0%9F%9B%B0%EF%B8%8F+RADAR+VISITOR+HITS" />
+  <img src="https://img.shields.io/github/followers/sibiabi123?style=flat-square&color=10b981&logo=github&label=CO-PILOTS" />
+  <img src="https://img.shields.io/badge/WatoBot%20Production-LIVE%20%E2%9C%85-25D366?style=flat-square&logo=render" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍🚀 Mission Statement & Engineering Philosophy
+## 🧭 Flight HUD Terminal Overview
 
-```rust
-struct Engineer {
-    name: &'static str,
-    domains: [&'static str; 4],
-    mission: &'static str,
-}
-
-impl Engineer {
-    fn new() -> Self {
-        Engineer {
-            name: "Sibi Abi (sibiabi123)",
-            domains: [
-                "Aerospace Dynamics & Autonomous UAV Avionics",
-                "Operating Systems & Low-Level x86 Kernel Architecture",
-                "Distributed Cloud Infrastructure & Autonomous Microservices",
-                "Physics-Informed Deep Learning & Predictive Maintenance",
-            ],
-            mission: "Pioneering fault-tolerant flight systems, ultra-efficient kernels, and 24/7 cloud automation.",
-        }
-    }
-}
+```
+╭────────────────────────────────────────────────────────────────────────────────────────╮
+│ 🛰️  MISSION PROFILE: SIBI_ABI // CALLSIGN: "AERO-CORE" // CLEARANCE: LEVEL-V           │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  ⚡ PRIMARY DIRECTIVE  │ Engineering resilient aerospace avionics & autonomous systems   │
+│  💻 KERNEL DEVELOPMENT │ Author of NxtGen_OS (x86 C/ASM monolithic kernel with VFS)    │
+│  ☁️ CLOUD INFRA        │ Architect of WatoBot 24/7 cloud automation (Render/Fastify)   │
+│  🧠 PREDICTIVE AI      │ Turbofan Jet Engine RUL Prognostics (NASA C-MAPSS BiLSTM)     │
+│  📍 BASE STATION       │ Tamil Nadu, India [ 11.0168° N, 76.9558° E ] (IST / UTC+5:30) │
+╰────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🌌 Multi-Disciplinary Engineering Portfolio
+## 🌌 3D Contributions Orbit & Activity Metrics
+
+<div align="center">
+
+<!-- 3D Isometric Contribution Matrix -->
+<img src="metrics.plugin.isocalendar.svg" width="100%" alt="3D Isometric Contribution Grid" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/sibiabi123/sibiabi123/output/github-snake-dark.svg" width="100%" alt="GitHub Snake Animation" />
+
+</div>
+
+---
+
+## 🚀 Flagship Aerospace & Systems Projects
 
 <div align="center">
 <table>
+  <!-- Row 1: ADS-B Radar & x86 Kernel -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 1. Aerospace & Autonomous Flight</h3>
-      <p>Building next-generation mission-critical avionics, real-time ADS-B radar feeds, Kalman-filter visual odometry for GPS-denied UAV navigation, and orbital trajectory optimizers.</p>
-      <b>Flagship Focus:</b> Turbofan Prognostics, SGP4 Orbit Propagation, Swarm GCS.
+      <div align="center">
+        <a href="https://github.com/sibiabi123/SkyRoute-ADSB">
+          <img src="https://img.shields.io/badge/%F0%9F%93%A1%20SkyRoute--ADSB-Live%20Radar%20%26%20TCAS%20II-00e5ff?style=for-the-badge" width="100%" />
+        </a>
+      </div>
+      <br/>
+      <b>🛰️ Real-Time ADS-B Radar & TCAS Collision Avoidance</b>
+      <p>Decodes Mode-S 1090MHz flight telemetry. Calculates 4D Closest Point of Approach (CPA $\tau$) and issues automated Climb/Descend Resolution Advisories.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-Async-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/TCAS_II-Advisories-green?style=flat-square" />
+      </p>
+      👉 <a href="https://github.com/sibiabi123/SkyRoute-ADSB"><b>Explore SkyRoute-ADSB ➔</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 2. Low-Level Systems & OS Kernel Dev</h3>
-      <p>Architect of <b>NxtGen_OS</b>, a ground-up 32-bit x86 Operating System kernel written in C & Assembly featuring custom virtual file system (VFS), memory paging, and 72 CLI commands.</p>
-      <b>Flagship Focus:</b> OS Architecture, x86 Assembly, Memory Paging, Drivers.
+      <div align="center">
+        <a href="https://github.com/sibiabi123/NxtGen_OS">
+          <img src="https://img.shields.io/badge/%F0%9F%92%BB%20NxtGen__OS-32--bit%20x86%20Monolithic%20Kernel-ff007f?style=for-the-badge" width="100%" />
+        </a>
+      </div>
+      <br/>
+      <b>💻 Custom Monolithic OS Kernel from Scratch</b>
+      <p>Bare-metal x86 Operating System kernel featuring 72 interactive shell commands, Virtual File System (VFS), programmable interrupt controller (PIC), and memory paging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-Kernel-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/x86-Assembly-6E4C13?style=flat-square" />
+        <img src="https://img.shields.io/badge/QEMU-Tested-FF6600?style=flat-square" />
+      </p>
+      👉 <a href="https://github.com/sibiabi123/NxtGen_OS"><b>Explore NxtGen_OS ➔</b></a>
     </td>
   </tr>
+
+  <!-- Row 2: WatoBot & Orbital Mechanics -->
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ 3. Distributed Cloud & Microservices</h3>
-      <p>Architect of <b>WatoBot</b>, a serverless-resilient cloud microservice running 24/7 on Render PaaS (Singapore) with multi-device WebSocket protocols and zero-knowledge AES-256 cryptography.</p>
-      <b>Flagship Focus:</b> Fastify, Docker, Cron IPC, Keep-Alive Watchdogs.
+      <div align="center">
+        <a href="https://github.com/sibiabi123/mudbot">
+          <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20WatoBot-24%2F7%20Cloud%20WhatsApp%20Platform-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%" />
+        </a>
+      </div>
+      <br/>
+      <b>☁️ 24/7 Distributed WhatsApp Cloud Microservice</b>
+      <p>Autonomous messaging engine on Render PaaS (Singapore). Zero-knowledge client-side AES-256 session encryption, group broadcast, and millisecond-accurate cron scheduler.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-v24-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fastify-Web-000000?style=flat-square&logo=fastify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-Multi--Stage-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      👉 <a href="https://mudbot-erai.onrender.com"><b>Live Website ➔</b></a> • <a href="https://github.com/sibiabi123/mudbot"><b>Source Code ➔</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 4. Predictive AI & Physics-Informed ML</h3>
-      <p>Researching turbofan Remaining Useful Life (RUL) prognostics with Deep BiLSTM architectures, multi-sensor degradation models, and Physics-Informed Neural Networks (PINNs).</p>
-      <b>Flagship Focus:</b> NASA C-MAPSS, Sensor Fusion, Anomaly Detection.
+      <div align="center">
+        <a href="https://github.com/sibiabi123/OrbitalMechanics-Py">
+          <img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F%20OrbitalMechanics--Py-Satellite%20Propagation-7c3aed?style=for-the-badge" width="100%" />
+        </a>
+      </div>
+      <br/>
+      <b>🛰️ Spacecraft Orbit Propagation & Trajectory Engine</b>
+      <p>High-precision orbital mechanics toolkit supporting SGP4/SDP4 TLE perturbations, J2 oblateness models, Keplerian state conversions, and Hohmann transfer $\Delta v$ optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Astrodynamics-SGP4-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trajectory-%CE%94v%20Budget-purple?style=flat-square" />
+      </p>
+      👉 <a href="https://github.com/sibiabi123/OrbitalMechanics-Py"><b>Explore OrbitalMechanics-Py ➔</b></a>
+    </td>
+  </tr>
+
+  <!-- Row 3: Turbofan AI & GPS-Denied UAV Navigation -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/sibiabi123/AeroPredict-Turbofan-BiLSTM">
+          <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20AeroPredict--Turbofan-Deep%20BiLSTM%20Prognostics-f59e0b?style=for-the-badge" width="100%" />
+        </a>
+      </div>
+      <br/>
+      <b>⚙️ Jet Engine Remaining Useful Life (RUL) Prognostics</b>
+      <p>Deep Learning prognostics on 21 thermodynamic sensors from NASA C-MAPSS dataset. Predicts time-to-failure to prevent catastrophic in-flight engine flameouts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-2.2-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/BiLSTM-Deep%20Learning-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/NASA-C--MAPSS-blue?style=flat-square" />
+      </p>
+      👉 <a href="https://github.com/sibiabi123/AeroPredict-Turbofan-BiLSTM"><b>Explore AeroPredict ➔</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/sibiabi123/UAV-Vision-Nav">
+          <img src="https://img.shields.io/badge/%F0%9F%9A%81%20UAV--Vision--Nav-GPS--Denied%20VIO%20%26%20YOLO-06b6d4?style=for-the-badge" width="100%" />
+        </a>
+      </div>
+      <br/>
+      <b>🚁 GPS-Denied Autonomous UAV Visual Odometry</b>
+      <p>Lucas-Kanade optical flow visual-inertial odometry (VIO) for subterranean/GPS-denied drone navigation combined with YOLOv8 aerial object detection & tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-4.9-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-Aerial%20AI-00FFFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/VIO-Navigation-green?style=flat-square" />
+      </p>
+      👉 <a href="https://github.com/sibiabi123/UAV-Vision-Nav"><b>Explore UAV-Vision-Nav ➔</b></a>
     </td>
   </tr>
 </table>
@@ -81,91 +181,69 @@ impl Engineer {
 
 ---
 
-## 🛰️ Featured Aerospace & Flight Systems Series (10+ Projects)
+## 🗂️ Complete Aerospace & Flight Dynamics Series
 
 <div align="center">
 
-| Project Designation | Technology Stack | Aerospace Application & Real-Time Impact | Link |
+| Project | Tech Stack | Aerospace Domain & Capabilities | Status |
 | :--- | :--- | :--- | :---: |
-| 📡 **SkyRoute-ADSB** | `Python`, `FastAPI`, `WebSockets` | Mode-S 1090MHz ADS-B Radar + TCAS II Collision Avoidance with CPA $\tau$ Vector Advisories | [**Code ➔**](https://github.com/sibiabi123/SkyRoute-ADSB) |
-| 🛰️ **OrbitalMechanics-Py** | `Python`, `Astropy`, `SGP4` | Satellite Orbit Propagation, SGP4/SDP4 Perturbations & Hohmann Transfer $\Delta v$ Optimizer | [**Code ➔**](https://github.com/sibiabi123/OrbitalMechanics-Py) |
-| 🛩️ **Avionics-RTOS-Core** | `C`, `FreeRTOS`, `ARINC 653` | Mission-Critical Embedded Flight Management Computer with Space/Time Partitioning | [**Code ➔**](https://github.com/sibiabi123/Avionics-RTOS-Core) |
-| 🚁 **UAV-Vision-Nav** | `C++`, `OpenCV`, `YOLOv8` | GPS-Denied Autonomous UAV Visual Inertial Odometry (VIO) & Aerial Target Tracking | [**Code ➔**](https://github.com/sibiabi123/UAV-Vision-Nav) |
-| 💨 **AeroCFD-PINN** | `PyTorch`, `SciPy`, `PINNs` | Transonic Airfoil Aerodynamic Optimization via Physics-Informed Neural Networks | [**Code ➔**](https://github.com/sibiabi123/AeroCFD-PINN) |
-| 📼 **BlackBox-FDR** | `Python`, `Plotly`, `ARINC 717` | Flight Data Recorder (FDR) Binary Telemetry Parser & 3D Accident Recreation Track | [**Code ➔**](https://github.com/sibiabi123/BlackBox-FDR-Visualizer) |
-| 🐝 **DroneFleet-Swarm** | `Python`, `MAVLink 2.0` | Autonomous Multi-UAV Swarm Ground Control Station with Dynamic Geofencing | [**Code ➔**](https://github.com/sibiabi123/DroneFleet-Swarm-GCS) |
-| ☄️ **SpaceDebris-Conjunction** | `Python`, `TLE`, `Covariance` | LEO Space Debris Conjunction Assessment & Foster 1992 Collision Probability Engine | [**Code ➔**](https://github.com/sibiabi123/SpaceDebris-Conjunction) |
-| 🔥 **Hypersonic-Reentry** | `Python`, `Thermodynamics` | Hypersonic Entry Aerothermal Heat Flux & TPS Carbon-Phenolic Ablation Simulation | [**Code ➔**](https://github.com/sibiabi123/Hypersonic-Reentry-Sim) |
-| ⚙️ **AeroPredict-Turbofan** | `PyTorch`, `NASA C-MAPSS` | Deep BiLSTM Remaining Useful Life (RUL) Prognostics for Jet Turbine Engines | [**Code ➔**](https://github.com/sibiabi123/AeroPredict-Turbofan-BiLSTM) |
+| 📡 [**`SkyRoute-ADSB`**](https://github.com/sibiabi123/SkyRoute-ADSB) | `Python`, `FastAPI`, `WebSockets` | Mode-S 1090MHz ADS-B Radar + TCAS II Collision Avoidance & CPA Vector Engine | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 🛰️ [**`OrbitalMechanics-Py`**](https://github.com/sibiabi123/OrbitalMechanics-Py) | `Python`, `SciPy`, `Astropy` | Satellite Orbit Propagation, SGP4/SDP4 Perturbations & Hohmann Transfer $\Delta v$ Optimizer | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 🛩️ [**`Avionics-RTOS-Core`**](https://github.com/sibiabi123/Avionics-RTOS-Core) | `C`, `FreeRTOS`, `ARINC 653` | Mission-Critical Embedded Flight Management Computer with Space/Time Partitioning | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 🚁 [**`UAV-Vision-Nav`**](https://github.com/sibiabi123/UAV-Vision-Nav) | `C++`, `OpenCV`, `YOLOv8` | GPS-Denied Autonomous UAV Visual Inertial Odometry (VIO) & Aerial Target Tracking | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 💨 [**`AeroCFD-PINN`**](https://github.com/sibiabi123/AeroCFD-PINN) | `PyTorch`, `PINNs`, `SciPy` | Transonic Supercritical Airfoil Aerodynamic Optimization via Physics-Informed NNs | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 📼 [**`BlackBox-FDR-Visualizer`**](https://github.com/sibiabi123/BlackBox-FDR-Visualizer) | `Python`, `ARINC 717`, `Plotly` | Flight Data Recorder (FDR) Binary Telemetry Parser & 3D Accident Recreation Track | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 🐝 [**`DroneFleet-Swarm-GCS`**](https://github.com/sibiabi123/DroneFleet-Swarm-GCS) | `Python`, `MAVLink 2.0` | Autonomous Multi-UAV Swarm Ground Control Station with Dynamic Perimeter Geofencing | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| ☄️ [**`SpaceDebris-Conjunction`**](https://github.com/sibiabi123/SpaceDebris-Conjunction) | `Python`, `TLE`, `Covariance` | LEO Space Debris Conjunction Assessment & Foster 1992 Collision Probability Engine | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| 🔥 [**`Hypersonic-Reentry-Sim`**](https://github.com/sibiabi123/Hypersonic-Reentry-Sim) | `Python`, `Thermodynamics` | Hypersonic Entry Aerothermal Heat Flux & TPS Carbon-Phenolic Material Ablation Model | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
+| ⚙️ [**`AeroPredict-Turbofan-BiLSTM`**](https://github.com/sibiabi123/AeroPredict-Turbofan-BiLSTM) | `PyTorch`, `NASA C-MAPSS` | Deep BiLSTM Remaining Useful Life (RUL) Prognostics for Jet Turbine Engines | <img src="https://img.shields.io/badge/Operational-%E2%9C%85-10b981?style=flat-square" /> |
 
 </div>
 
 ---
 
-## 🌟 Core Flagship Projects
-
-### 1️⃣ [NxtGen_OS](https://github.com/sibiabi123/NxtGen_OS) — *Custom 32-bit x86 Operating System Kernel*
-> A fully custom monolithic operating system kernel engineered from scratch with 72 functional interactive shell commands, Virtual File System (VFS), programmable interrupt controller (PIC), keyboard drivers, and memory paging.
-* **Stack:** `C`, `x86 Assembly`, `NASM`, `QEMU`, `Makefile`, `Linker Scripts`
-
----
-
-### 2️⃣ [WatoBot](https://github.com/sibiabi123/mudbot) — *24/7 Cloud WhatsApp Automation Microservice*
-> An enterprise-grade, zero-knowledge cloud messaging platform deployed on Render.com with millisecond-accurate cron scheduling, full group broadcasting, and RESTful API endpoints.
-* **Stack:** `Node.js v24`, `Fastify`, `Baileys Engine`, `Docker`, `GNU Cron`, `AES-256-CBC`
-* **Live Demo:** [mudbot-erai.onrender.com](https://mudbot-erai.onrender.com) | **Docs:** [20-Page Handover PDF](https://github.com/sibiabi123/mudbot/blob/main/WatoBot_Project_Handover_Document.pdf)
-
----
-
-### 3️⃣ [Predictive-Maintenance](https://github.com/sibiabi123/Predictive-maintenance) — *Industrial Sensor Anomaly Engine*
-> Industrial and aerospace multi-sensor health monitoring system leveraging Deep Learning to predict time-to-failure in high-stress machinery.
-
----
-
-### 4️⃣ [CourtMate](https://github.com/sibiabi123/courtmate) — *Institutional Legal & Case Management System*
-> Intelligent case tracking, judicial scheduling, and sports workflow automation engine.
-
----
-
-## 🛠️ Advanced Technology Stack & Toolchain
+## 🛠️ Mastered Engineering Toolchain & Tech Stack
 
 <div align="center">
 
-### 🛰️ Aerospace, Avionics & Scientific Computing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<!-- Aerospace & Scientific -->
+<p><b>🛰️ Aerospace, Avionics & Scientific Computing</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,opencv,ros,cpp&theme=dark" />
+</a>
+<br/><br/>
 
-### 💻 Systems, Kernel & Embedded
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![QEMU](https://img.shields.io/badge/QEMU_Emulator-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<!-- Systems & Low-Level -->
+<p><b>💻 Low-Level Systems, OS Kernel & Embedded</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,github,vscode&theme=dark" />
+</a>
+<br/><br/>
 
-### ☁️ Cloud, Distributed Systems & DevOps
-![NodeJS](https://img.shields.io/badge/Node.js_v24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render_Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git_VCS-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<!-- Cloud & Distributed -->
+<p><b>☁️ Cloud Infrastructure, Microservices & DevOps</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,docker,githubactions,postman,aws,redis&theme=dark" />
+</a>
+<br/><br/>
+
+<!-- Frontend & Design -->
+<p><b>🎨 Modern Web UI & Design Engineering</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,js,ts,react,figma&theme=dark" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies & Global Metrics
+## 📊 Live Telemetry & GitHub Activity Stream
 
 <div align="center">
 
-<!-- GitHub Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=sibiabi123&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+<!-- Top Row: Stats & Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=sibiabi123&show_icons=true&theme=tokyonight&bg_color=030712&title_color=00e5ff&icon_color=10b981&text_color=e2e8f0&border_color=065f46&border_radius=16&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=sibiabi123&theme=dark&background=030712&border=065f46&ring=00e5ff&fire=10b981&currStreakLabel=00e5ff&sideLabels=10b981&dates=94a3b8&border_radius=16" width="48%" alt="GitHub Streak" />
 
 </div>
 
@@ -173,37 +251,38 @@ impl Engineer {
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=sibiabi123&show_icons=true&theme=merko&bg_color=050814&title_color=25D366&icon_color=00e5ff&text_color=ffffff&border_color=25D366&border_radius=12&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=sibiabi123&theme=dark&background=050814&border=25D366&ring=00e5ff&fire=25d366&currStreakLabel=25D366&sideLabels=00e5ff&dates=aaaaaa&border_radius=12" width="48%" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibiabi123&layout=compact&theme=merko&bg_color=050814&title_color=25D366&text_color=ffffff&border_color=00e5ff&border_radius=12&langs_count=8" width="48%" alt="Top Languages" />
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibiabi123&bg_color=050814&color=25D366&line=00e5ff&point=25d366&area=true&area_color=25D366&border_radius=12" width="48%" alt="Activity Graph" />
+<!-- Bottom Row: Languages & Activity Wave -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibiabi123&layout=compact&theme=tokyonight&bg_color=030712&title_color=00e5ff&text_color=e2e8f0&border_color=065f46&border_radius=16&langs_count=8" width="48%" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibiabi123&bg_color=030712&color=00e5ff&line=10b981&point=00e5ff&area=true&area_color=065f46&border_radius=16" width="48%" alt="Activity Wave" />
 
 </div>
 
 ---
 
-## 📬 Command Center & Connect
+## 🏆 Global Honors & GitHub Trophies
 
 <div align="center">
 
-[![WatoBot Live](https://img.shields.io/badge/🌐%20WatoBot%20Production-mudbot--erai.onrender.com-004f21?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mudbot-erai.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sibiabi123-181717?style=for-the-badge&logo=github)](https://github.com/sibiabi123)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+<img src="https://github-profile-trophy.vercel.app/?username=sibiabi123&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004f21,50:25d366,100:050814&height=140&section=footer" width="100%" />
+</div>
 
-*⚡ Continuously engineered with precision by Sibi Abi — Systems, Cloud & Aerospace 🚀*
+---
+
+## 📡 Ground Control Communications
+
+<div align="center">
+
+[![WatoBot Production](https://img.shields.io/badge/%F0%9F%8C%90%20WatoBot%20Production-mudbot--erai.onrender.com-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mudbot-erai.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sibiabi123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sibiabi123)
+[![License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+<br/><br/>
+
+<!-- Footer Neon Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,35:10b981,75:065f46,100:030712&height=150&section=footer" width="100%" />
+
+<i>"Per aspera ad astra — Through hardships to the stars." 🛰️⚡</i><br/>
+<b>Engineered by Sibi Abi // Flight Control ID: AE-2026 // Mission Status: 100% Operational</b>
 
 </div>
