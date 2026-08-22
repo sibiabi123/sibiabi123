@@ -5,7 +5,7 @@
 
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://github.com/sibiabi123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🚀+Aerospace+Guidance+%26+Avionics+Systems;⚡+Author+of+NxtGen_OS+(Custom+x86+Kernel);☁️+Architect+of+WatoBot+24%2F7+Cloud+Platform;🧠+Physics-Informed+Neural+Networks+%26+Predictive+Maintenance;🛰️+Orbital+Mechanics+%26+Real-time+ADS-B+Telemetry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🚀+Aerospace+Guidance+%26+Avionics+Systems;⚡+Author+of+NxtGen_OS+(Custom+x86+Kernel);☁️+Architect+of+WatoBot+24%2F7+Cloud+Platform;🧠+Physics-Informed+Neural+Networks+%26+Turbofan+RUL;🛰️+Orbital+Mechanics+%26+Real-time+ADS-B+Radar" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,6 +15,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/sibiabi123?style=for-the-badge&color=25D366&logo=github&logoColor=white&label=COLLABORATORS)](https://github.com/sibiabi123?tab=followers)
 [![WatoBot Status](https://img.shields.io/badge/WatoBot-LIVE%2024%2F7%20%F0%9F%9F%A2-00e5ff?style=for-the-badge&logo=whatsapp&logoColor=black)](https://mudbot-erai.onrender.com)
 [![Kernel Status](https://img.shields.io/badge/NxtGen_OS-x86%20Kernel%20Active-ff007f?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/sibiabi123/NxtGen_OS)
+[![Aerospace Series](https://img.shields.io/badge/Aerospace-10%2B%20Open%20Source%20Repos-blue?style=for-the-badge&logo=spacex&logoColor=white)](https://github.com/sibiabi123?tab=repositories)
 
 </div>
 
@@ -47,7 +48,7 @@ impl Engineer {
 
 ---
 
-## 🌌 Multi-Discipline Engineering Portfolio
+## 🌌 Multi-Disciplinary Engineering Portfolio
 
 <div align="center">
 <table>
@@ -80,12 +81,32 @@ impl Engineer {
 
 ---
 
-## 🌟 Featured Star Repositories
+## 🛰️ Featured Aerospace & Flight Systems Series (10+ Projects)
+
+<div align="center">
+
+| Project Designation | Technology Stack | Aerospace Application & Real-Time Impact | Link |
+| :--- | :--- | :--- | :---: |
+| 📡 **SkyRoute-ADSB** | `Python`, `FastAPI`, `WebSockets` | Mode-S 1090MHz ADS-B Radar + TCAS II Collision Avoidance with CPA $\tau$ Vector Advisories | [**Code ➔**](https://github.com/sibiabi123/SkyRoute-ADSB) |
+| 🛰️ **OrbitalMechanics-Py** | `Python`, `Astropy`, `SGP4` | Satellite Orbit Propagation, SGP4/SDP4 Perturbations & Hohmann Transfer $\Delta v$ Optimizer | [**Code ➔**](https://github.com/sibiabi123/OrbitalMechanics-Py) |
+| 🛩️ **Avionics-RTOS-Core** | `C`, `FreeRTOS`, `ARINC 653` | Mission-Critical Embedded Flight Management Computer with Space/Time Partitioning | [**Code ➔**](https://github.com/sibiabi123/Avionics-RTOS-Core) |
+| 🚁 **UAV-Vision-Nav** | `C++`, `OpenCV`, `YOLOv8` | GPS-Denied Autonomous UAV Visual Inertial Odometry (VIO) & Aerial Target Tracking | [**Code ➔**](https://github.com/sibiabi123/UAV-Vision-Nav) |
+| 💨 **AeroCFD-PINN** | `PyTorch`, `SciPy`, `PINNs` | Transonic Airfoil Aerodynamic Optimization via Physics-Informed Neural Networks | [**Code ➔**](https://github.com/sibiabi123/AeroCFD-PINN) |
+| 📼 **BlackBox-FDR** | `Python`, `Plotly`, `ARINC 717` | Flight Data Recorder (FDR) Binary Telemetry Parser & 3D Accident Recreation Track | [**Code ➔**](https://github.com/sibiabi123/BlackBox-FDR-Visualizer) |
+| 🐝 **DroneFleet-Swarm** | `Python`, `MAVLink 2.0` | Autonomous Multi-UAV Swarm Ground Control Station with Dynamic Geofencing | [**Code ➔**](https://github.com/sibiabi123/DroneFleet-Swarm-GCS) |
+| ☄️ **SpaceDebris-Conjunction** | `Python`, `TLE`, `Covariance` | LEO Space Debris Conjunction Assessment & Foster 1992 Collision Probability Engine | [**Code ➔**](https://github.com/sibiabi123/SpaceDebris-Conjunction) |
+| 🔥 **Hypersonic-Reentry** | `Python`, `Thermodynamics` | Hypersonic Entry Aerothermal Heat Flux & TPS Carbon-Phenolic Ablation Simulation | [**Code ➔**](https://github.com/sibiabi123/Hypersonic-Reentry-Sim) |
+| ⚙️ **AeroPredict-Turbofan** | `PyTorch`, `NASA C-MAPSS` | Deep BiLSTM Remaining Useful Life (RUL) Prognostics for Jet Turbine Engines | [**Code ➔**](https://github.com/sibiabi123/AeroPredict-Turbofan-BiLSTM) |
+
+</div>
+
+---
+
+## 🌟 Core Flagship Projects
 
 ### 1️⃣ [NxtGen_OS](https://github.com/sibiabi123/NxtGen_OS) — *Custom 32-bit x86 Operating System Kernel*
 > A fully custom monolithic operating system kernel engineered from scratch with 72 functional interactive shell commands, Virtual File System (VFS), programmable interrupt controller (PIC), keyboard drivers, and memory paging.
 * **Stack:** `C`, `x86 Assembly`, `NASM`, `QEMU`, `Makefile`, `Linker Scripts`
-* **Features:** Protected Mode Execution, GDT/IDT Configuration, Custom Shell, VGA Text Driver.
 
 ---
 
@@ -96,16 +117,13 @@ impl Engineer {
 
 ---
 
-### 3️⃣ [Predictive-Maintenance](https://github.com/sibiabi123/Predictive-maintenance) — *Turbofan Engine RUL Prognostics*
-> Industrial and aerospace multi-sensor health monitoring system leveraging Deep BiLSTM and physics-based degradation curves to predict time-to-failure in high-stress jet turbine engines.
-* **Stack:** `Python`, `PyTorch`, `Scikit-Learn`, `NASA C-MAPSS Dataset`, `Pandas`, `Matplotlib`
-* **Impact:** Prevents catastrophic in-flight engine failures via proactive sensor anomaly detection.
+### 3️⃣ [Predictive-Maintenance](https://github.com/sibiabi123/Predictive-maintenance) — *Industrial Sensor Anomaly Engine*
+> Industrial and aerospace multi-sensor health monitoring system leveraging Deep Learning to predict time-to-failure in high-stress machinery.
 
 ---
 
-### 4️⃣ [CourtMate](https://github.com/sibiabi123/courtmate) — *Intelligent Legal & Scheduling Workflow Engine*
-> Automated judicial tracking, sports scheduling, and institutional case management software built for high-throughput institutional workflows.
-* **Stack:** `JavaScript`, `Full-Stack Architecture`, `REST APIs`, `SQL / NoSQL`
+### 4️⃣ [CourtMate](https://github.com/sibiabi123/courtmate) — *Institutional Legal & Case Management System*
+> Intelligent case tracking, judicial scheduling, and sports workflow automation engine.
 
 ---
 
@@ -172,29 +190,6 @@ impl Engineer {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sibiabi123&bg_color=050814&color=25D366&line=00e5ff&point=25d366&area=true&area_color=25D366&border_radius=12" width="48%" alt="Activity Graph" />
 
 </div>
-
----
-
-## 🛰️ Upcoming Aerospace & Flight Dynamics Series
-
-<details>
-<summary><b>📡 Click to Expand Upcoming Aerospace Research & Open Source Projects</b></summary>
-
-<br/>
-
-| Project Designation | Technology Stack | Research Scope / Aerospace Application |
-| :--- | :--- | :--- |
-| **`SkyRoute-ADSB`** | Python, FastAPI, WebSockets, Leaflet | Real-time ADS-B flight radar decoding, TCAS collision detection, dynamic airspace conflict resolution. |
-| **`OrbitalMechanics-Py`** | Python, Astropy, SGP4, Skyfield | High-precision satellite orbit propagation, Keplerian elements, Hohmann transfer delta-v trajectories. |
-| **`Avionics-RTOS-Core`** | C, FreeRTOS, ARINC 653 | Fault-tolerant flight management computer core with deterministic spatial and temporal partitioning. |
-| **`UAV-Vision-Nav`** | C++, OpenCV, YOLOv8, ROS2 | GPS-denied terrain reference visual odometry and aerial object tracking for autonomous quadcopters. |
-| **`AeroCFD-PINN`** | PyTorch, SciPy, Physics-Informed NNs | Transonic supercritical airfoil aerodynamic shape optimization and shockwave boundary layer prediction. |
-| **`BlackBox-FDR`** | Python, Plotly, ARINC 717 | Flight Data Recorder (FDR) telemetry parser and 3D incident flight path recreation engine. |
-| **`DroneFleet-Swarm`** | Python, MAVLink, QGroundControl API | Autonomous multi-UAV swarm ground control station with automated dynamic formation geofencing. |
-| **`SpaceDebris-Tracker`** | Python, Space-Track API, Three.js | Near-Earth orbit debris conjunction assessment and satellite collision probability forecasting. |
-| **`Hypersonic-Reentry`** | Fortran / Python, Thermodynamics | Aerothermal heat flux modeling and Thermal Protection System (TPS) material ablation simulation. |
-
-</details>
 
 ---
 
