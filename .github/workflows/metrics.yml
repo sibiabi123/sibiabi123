@@ -21,7 +21,7 @@ jobs:
       - name: 📊 Main Profile Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: sibiabi123
           template: classic
           base: header, activity, community, repositories, metadata
@@ -36,7 +36,7 @@ jobs:
       - name: ⏰ Coding Habits & Commit Activity
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: sibiabi123
           template: classic
           base: ""
@@ -54,7 +54,7 @@ jobs:
       - name: 💬 Most Used Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: sibiabi123
           template: classic
           base: ""
@@ -72,7 +72,7 @@ jobs:
       - name: 📅 Contributions Calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: sibiabi123
           template: classic
           base: ""
@@ -85,7 +85,7 @@ jobs:
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: sibiabi123
           template: classic
           base: ""
@@ -100,7 +100,7 @@ jobs:
       - name: ⭐ Topics & Interests
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: sibiabi123
           template: classic
           base: ""
