@@ -382,7 +382,8 @@ timeline
 | 14 | [⚖️ **`courtmate`**](https://github.com/sibiabi123/courtmate) | `Full-Stack` `JavaScript` | High-Throughput Judicial Tracking & Institutional Scheduling Engine | ![](https://img.shields.io/badge/✅-Operational-10b981?style=flat-square) |
 | 15 | [💬 **`WA-Automation`**](https://github.com/sibiabi123/WA-Automation) | `JavaScript` `Microservices` | Core Distributed WhatsApp Protocol & IPC Automation Workspace | ![](https://img.shields.io/badge/✅-Operational-10b981?style=flat-square) |
 | 16 | [🏫 **`website`**](https://github.com/sibiabi123/website) | `HTML5` `CSS3` `JavaScript` | Institutional Web Portal & Academic Department Management System | ![](https://img.shields.io/badge/✅-Operational-10b981?style=flat-square) |
-| 17 | [⚡ **`sibiabi123 (Profile)`**](https://github.com/sibiabi123/sibiabi123) | `GitHub Actions` `SVG` | Master Mission Control Profile with Automated Daily Telemetry Sync | ![](https://img.shields.io/badge/✅-Operational-10b981?style=flat-square) |
+| 17 | [📱 **`WatoSKED-Android`**](https://github.com/sibiabi123/WatoSKED-Android) | `Android` `Java` `Accessibility` | Native Android WhatsApp Auto-Scheduler APK (SKEDit Alternative) with Exact Alarms | ![](https://img.shields.io/badge/📱-APK_Released-3DDC84?style=flat-square) |
+| 18 | [⚡ **`sibiabi123 (Profile)`**](https://github.com/sibiabi123/sibiabi123) | `GitHub Actions` `SVG` | Master Mission Control Profile with Automated Daily Telemetry Sync | ![](https://img.shields.io/badge/✅-Operational-10b981?style=flat-square) |
 
 </div>
 
